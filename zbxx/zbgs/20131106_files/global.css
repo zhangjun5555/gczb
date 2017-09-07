@@ -1,0 +1,597 @@
+* {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	COLOR: #222; FONT-SIZE: 12px
+}
+A {
+	COLOR: #222; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #222
+}
+A IMG {
+	BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.fs14 {
+	FONT-SIZE: 14px
+}
+.ff {
+	FONT-FAMILY: "Arial Black", Gadget, sans-serif
+}
+.fcred {
+	COLOR: #c00
+}
+A.fcred {
+	COLOR: #c00
+}
+.fcred A {
+	COLOR: #c00
+}
+.fcgray {
+	COLOR: #666
+}
+.mart8 {
+	MARGIN-TOP: 8px
+}
+.mart10 {
+	MARGIN-TOP: 10px
+}
+.mart12 {
+	MARGIN-TOP: 12px
+}
+.marl10 {
+	MARGIN-LEFT: 10px
+}
+.padt1 {
+	PADDING-TOP: 1px
+}
+.fs12 {
+	FONT-SIZE: 12px !important
+}
+.width {
+	WIDTH: 980px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.border {
+	BORDER-BOTTOM: #cfdfec 1px solid; BORDER-LEFT: #cfdfec 1px solid; BORDER-TOP: #cfdfec 1px solid; BORDER-RIGHT: #cfdfec 1px solid
+}
+.imgborder {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+.leftdiv {
+	WIDTH: 280px
+}
+.bigleft {
+	WIDTH: 730px
+}
+.centerdiv {
+	WIDTH: 440px
+}
+.rightdiv {
+	WIDTH: 240px
+}
+.floatleft {
+	FLOAT: left
+}
+.floatright {
+	FLOAT: right
+}
+.condiv {
+	MARGIN-TOP: -1px; WIDTH: 320px; FLOAT: left
+}
+.condiv .border {
+	HEIGHT: 325px; OVERFLOW: hidden
+}
+.condiv H2 {
+	BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt3.gif) no-repeat 12px center; COLOR: #000 !important; BORDER-TOP: #004499 0px solid
+}
+.shortdiv {
+	MARGIN-TOP: -1px; WIDTH: 320px; FLOAT: left
+}
+.shortdiv .border {
+	HEIGHT: 210px; OVERFLOW: hidden
+}
+.shortdiv H2 {
+	BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt3.gif) no-repeat 12px center; COLOR: #000 !important; BORDER-TOP: #004499 0px solid
+}
+.condivright {
+	WIDTH: 650px; FLOAT: right
+}
+.tabcontent {
+	Z-INDEX: 9999; POSITION: relative
+}
+.zhaobiao_con {
+	HEIGHT: 418px !important
+}
+.area_con {
+	HEIGHT: 268px !important
+}
+.fenlei {
+	Z-INDEX: 999; POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 308px; PADDING-RIGHT: 10px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/fenleibg.gif); PADDING-TOP: 0px
+}
+.fenlei LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; WIDTH: 77px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt4.gif) no-repeat 68px center; FLOAT: left; HEIGHT: 30px
+}
+#fenleilist {
+	BORDER-BOTTOM: #2d55b1 2px solid; POSITION: absolute; BORDER-LEFT: #2d55b1 2px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 22px; PADDING-LEFT: 10px; WIDTH: 400px; PADDING-RIGHT: 10px; DISPLAY: none; BACKGROUND: #fff; BORDER-TOP: #2d55b1 2px solid; BORDER-RIGHT: #2d55b1 2px solid; PADDING-TOP: 10px
+}
+#fenleilist A {
+	MARGIN: 0px 5px
+}
+#fenleilist2 {
+	BORDER-BOTTOM: #2d55b1 2px solid; POSITION: absolute; BORDER-LEFT: #2d55b1 2px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 22px; PADDING-LEFT: 10px; WIDTH: 400px; PADDING-RIGHT: 10px; DISPLAY: none; BACKGROUND: #fff; BORDER-TOP: #2d55b1 2px solid; BORDER-RIGHT: #2d55b1 2px solid; PADDING-TOP: 10px
+}
+#fenleilist2 A {
+	MARGIN: 0px 5px
+}
+.clear {
+	LINE-HEIGHT: 0; CLEAR: both; FONT-SIZE: 0px
+}
+.topnav {
+	BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/topnav.jpg) repeat-x left top; HEIGHT: 35px
+}
+.topnav .login {
+	FLOAT: left
+}
+.topnav .text {
+	BORDER-BOTTOM: #afcce1 1px solid; BORDER-LEFT: #afcce1 1px solid; WIDTH: 120px; HEIGHT: 19px; BORDER-TOP: #afcce1 1px solid; BORDER-RIGHT: #afcce1 1px solid
+}
+.topnav .uname {
+	WIDTH: 100px
+}
+.topnav .upwd {
+	WIDTH: 100px
+}
+.topnav .uyzm {
+	WIDTH: 60px
+}
+.topnav .menu {
+	LINE-HEIGHT: 35px; FLOAT: right; OVERFLOW: hidden
+}
+.topnav .menu A {
+	MARGIN: 0px 4px
+}
+.sonlogo {
+	POSITION: relative; MARGIN: 15px auto 20px; WIDTH: 950px; HEIGHT: 55px
+}
+.sonlogo .logopic {
+	POSITION: absolute; PADDING-LEFT: 10px; TOP: 5px
+}
+.sonlogo H1 {
+	POSITION: absolute; BORDER-LEFT: #004499 2px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 15px; FONT-FAMILY: "??????"; HEIGHT: 50px; COLOR: #004499; FONT-SIZE: 18px; FONT-WEIGHT: 600; TOP: 7px; LEFT: 260px
+}
+.sonlogo H1 I {
+	LINE-HEIGHT: 16px; DISPLAY: block; FONT-FAMILY: "Courier New", Courier, monospace; COLOR: #666; FONT-SIZE: 14px
+}
+.sonlogo .sonlogo_r {
+	POSITION: absolute; TEXT-ALIGN: right; LINE-HEIGHT: 22px; BOTTOM: 0px; RIGHT: 0px
+}
+.sonlogo .smenu {
+	POSITION: absolute; MARGIN-LEFT: 20px; TOP: 2px; LEFT: 430px
+}
+.sonlogo .smenu LI {
+	HEIGHT: 22px
+}
+.sonlogo .smenu LI A {
+	MARGIN: 0px 10px
+}
+.sonlogo .smenu LI A.stit {
+	FONT-WEIGHT: bold; MARGIN-RIGHT: 10px
+}
+.sonlogo .serv {
+	POSITION: absolute; RIGHT: -15px; TOP: -5px
+}
+.sonlogo .index {
+	LEFT: 260px
+}
+.sonlogo .index_sev {
+	POSITION: absolute; RIGHT: -15px; TOP: -5px
+}
+.snav {
+	POSITION: relative; MARGIN: auto; WIDTH: 980px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/nv.png); HEIGHT: 33px
+}
+.snav LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 33px; WIDTH: 88px; FLOAT: left; HEIGHT: 33px; BORDER-RIGHT: #0063af 1px solid
+}
+.snav LI A {
+	COLOR: #fff
+}
+.snav LI A:visited {
+	COLOR: #fff
+}
+.snav LI A:hover {
+	COLOR: #ff0
+}
+.search {
+	POSITION: relative; OVERFLOW: hidden
+}
+.sea_tit {
+	BORDER-BOTTOM: #cfdfec 1px solid; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_bg3.jpg) repeat-x left bottom; HEIGHT: 28px; OVERFLOW: visible
+}
+.sea_tit LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 28px; WIDTH: 100px; FLOAT: left; COLOR: #004499; OVERFLOW: hidden; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #cfdfec 1px solid
+}
+.sea_tit LI.current {
+	BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt5.jpg) #eef3f8 no-repeat center bottom; HEIGHT: 29px
+}
+.search I.help {
+	POSITION: absolute; BORDER-BOTTOM-STYLE: none; TEXT-ALIGN: left; FONT-STYLE: normal; BORDER-LEFT-STYLE: none; PADDING-LEFT: 20px; WIDTH: 40px; DISPLAY: block; BORDER-TOP-STYLE: none; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/help.gif) no-repeat left center; COLOR: #666; BORDER-RIGHT-STYLE: none; RIGHT: 0px; FONT-WEIGHT: normal; TOP: 8px
+}
+.sea_con {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: #eef3f8; HEIGHT: 90px; PADDING-TOP: 10px
+}
+.sea_key {
+	BORDER-BOTTOM: #d6d6d6 1px solid; BORDER-LEFT: #d6d6d6 1px solid; LINE-HEIGHT: 26px; PADDING-LEFT: 30px; WIDTH: 525px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/sea_jt.jpg) #fff no-repeat left center; HEIGHT: 26px; COLOR: #143a6e; OVERFLOW: hidden; BORDER-TOP: #d6d6d6 1px solid; BORDER-RIGHT: #d6d6d6 1px solid
+}
+.sea_con A {
+	MARGIN: 0px 5px; COLOR: #444
+}
+.fabubg {
+	BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/faibu_bg.jpg) no-repeat center top; HEIGHT: 100px
+}
+.fabubg P {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 5px; COLOR: #999; PADDING-TOP: 10px
+}
+.libg LI {
+	PADDING-LEFT: 15px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/lijt.gif) no-repeat 5px center
+}
+.libg2 LI {
+	PADDING-LEFT: 15px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt5.gif) no-repeat 5px center
+}
+.lih24 LI {
+	LINE-HEIGHT: 24px; HEIGHT: 24px; OVERFLOW: hidden
+}
+.lih28 LI {
+	LINE-HEIGHT: 28px; HEIGHT: 28px; OVERFLOW: hidden
+}
+.lia14 LI {
+	FONT-SIZE: 14px
+}
+.lia_blue A {
+	COLOR: #13366e
+}
+.lia_blue A:visited {
+	COLOR: #13366e
+}
+.li_date LI {
+	POSITION: relative
+}
+.li_date LI SPAN {
+	POSITION: absolute; COLOR: #888; FONT-SIZE: 12px; RIGHT: 5px; TOP: 0px
+}
+.li_date LI SPAN.money {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; RIGHT: 120px
+}
+.titbg {
+	BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_bg2.jpg) repeat-x left top
+}
+.title {
+	BORDER-BOTTOM: #d6e6f7 1px solid; LINE-HEIGHT: 28px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_bg.jpg) repeat-x left top; HEIGHT: 28px
+}
+.title H2 {
+	PADDING-LEFT: 30px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_jt.gif) no-repeat 10px center; FLOAT: left; COLOR: #004499; FONT-SIZE: 14px
+}
+.title A {
+	COLOR: #143a6e; MARGIN-RIGHT: 10px
+}
+.title2p {
+	BORDER-LEFT: #cfdfec 1px solid; LINE-HEIGHT: 28px; HEIGHT: 28px
+}
+.title2p LI {
+	BORDER-BOTTOM: #cfdfec 1px solid; TEXT-ALIGN: center; WIDTH: 138px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_bg.jpg) repeat-x left top; FLOAT: left; HEIGHT: 28px; FONT-SIZE: 14px; BORDER-TOP: #cfdfec 1px solid; CURSOR: pointer; BORDER-RIGHT: #cfdfec 1px solid
+}
+.title2p LI.current {
+	BORDER-BOTTOM-COLOR: #fff; WIDTH: 139px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_jt.gif) no-repeat 15px center; COLOR: #004499; FONT-WEIGHT: bold
+}
+.title3 {
+	POSITION: relative; BORDER-BOTTOM-STYLE: none; LINE-HEIGHT: 28px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/soline.jpg) #edf3fa repeat-x left bottom; HEIGHT: 28px
+}
+.title3 LI {
+	TEXT-ALIGN: center; WIDTH: 110px; FLOAT: left; HEIGHT: 28px; FONT-SIZE: 14px; CURSOR: pointer; BORDER-RIGHT: #cfdfec 1px solid
+}
+.title3 LI.current {
+	TEXT-ALIGN: left; PADDING-LEFT: 30px; WIDTH: 80px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt3.gif) #fff no-repeat 10px center; HEIGHT: 26px; COLOR: #004499; BORDER-TOP: #004499 2px solid; FONT-WEIGHT: bold
+}
+.title4 {
+	BORDER-BOTTOM: #d6e6f7 1px solid; LINE-HEIGHT: 28px; MARGIN: auto; WIDTH: 95%; HEIGHT: 28px
+}
+.title4 H2 {
+	PADDING-LEFT: 26px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_jt.gif) no-repeat 6px center; FLOAT: left; COLOR: #004499; FONT-SIZE: 14px
+}
+.title4 A {
+	COLOR: #143a6e; MARGIN-RIGHT: 10px
+}
+A.more {
+	FLOAT: right; COLOR: #2d55b1; MARGIN-RIGHT: 10px
+}
+.title5 {
+	BORDER-BOTTOM-STYLE: none; LINE-HEIGHT: 28px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/soline.jpg) #edf3fa repeat-x left bottom; HEIGHT: 28px
+}
+.title3 LI {
+	TEXT-ALIGN: center; WIDTH: 110px; FLOAT: left; HEIGHT: 28px; FONT-SIZE: 14px; CURSOR: pointer; BORDER-RIGHT: #cfdfec 1px solid
+}
+.title3 LI.current {
+	TEXT-ALIGN: left; PADDING-LEFT: 30px; WIDTH: 80px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt3.gif) #fff no-repeat 10px center; HEIGHT: 26px; COLOR: #004499; BORDER-TOP: #004499 2px solid; FONT-WEIGHT: bold
+}
+.dotline {
+	LINE-HEIGHT: 35px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/line.gif) repeat-x left center; HEIGHT: 35px
+}
+.dotline H2 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 35px; PADDING-LEFT: 25px; PADDING-RIGHT: 10px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_jt.gif) #fff no-repeat 5px center; FLOAT: left; HEIGHT: 35px; COLOR: #004499; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.dotline A {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: #fff; PADDING-TOP: 0px
+}
+.listcon {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 8px
+}
+.listcon H3 {
+	PADDING-LEFT: 8px; FONT-SIZE: 12px
+}
+.listcon P.remark {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 20px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 94%; PADDING-RIGHT: 0px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/line.gif) repeat-x left bottom; PADDING-TOP: 5px
+}
+.listcon2 {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; PADDING-TOP: 15px
+}
+.listcon2 LI {
+	WIDTH: 340px; FLOAT: left
+}
+.listcon3 {
+	
+}
+.listcon3 IMG {
+	MARGIN: 0px 15px; FLOAT: left
+}
+.listcon4 LI {
+	TEXT-ALIGN: center; WIDTH: 146px; FLOAT: left
+}
+.listcon4 A.atext {
+	LINE-HEIGHT: 20px; MARGIN: 6px auto 0px; WIDTH: 90%; DISPLAY: block
+}
+.ptext {
+	PADDING-BOTTOM: 5px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 96%; PADDING-RIGHT: 0px; HEIGHT: 110px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.ptext LI {
+	TEXT-ALIGN: center; WIDTH: 50%; FLOAT: left; _width: 49%
+}
+.ptext LI A.text {
+	LINE-HEIGHT: 22px; DISPLAY: block; PADDING-TOP: 8px
+}
+.ptext2 {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; HEIGHT: 80px; OVERFLOW: hidden; PADDING-TOP: 8px
+}
+.ptext2 IMG {
+	POSITION: absolute; RIGHT: 10px; TOP: 5px
+}
+.ptext2 H3 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 24px; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.ptext2 P {
+	LINE-HEIGHT: 22px; TEXT-INDENT: 24px; WIDTH: 300px; COLOR: #666
+}
+.ptext3 {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; HEIGHT: 110px; OVERFLOW: hidden; PADDING-TOP: 4px
+}
+.ptext3 IMG {
+	POSITION: absolute; TOP: 30px; LEFT: 10px
+}
+.ptext3 H3 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 24px; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.ptext3 P {
+	POSITION: absolute; LINE-HEIGHT: 20px; WIDTH: 160px; COLOR: #666; TOP: 30px; LEFT: 105px
+}
+.navroot {
+	BORDER-BOTTOM: #cfdfec 1px solid; LINE-HEIGHT: 26px; PADDING-LEFT: 36px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/tit_jt.gif) #edf3fa no-repeat 15px center; HEIGHT: 26px
+}
+.navroot A {
+	COLOR: #222
+}
+.context_h1 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 50px; MARGIN-TOP: 20px; FONT-FAMILY: "??????"; FONT-SIZE: 24px; FONT-WEIGHT: 500
+}
+.context {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 180%; PADDING-LEFT: 20px; PADDING-RIGHT: 15px; FONT-SIZE: 14px; PADDING-TOP: 10px
+}
+.context P {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.context TD {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; PADDING-TOP: 3px
+}
+.context A {
+	COLOR: #00f
+}
+.context A:hover {
+	COLOR: #c00
+}
+.context_tit {
+	BORDER-TOP: #cfdfec 1px solid
+}
+.context_tit H2 {
+	COLOR: #000
+}
+.share {
+	HEIGHT: 30px
+}
+.share A {
+	COLOR: #666
+}
+.ans {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.ans A {
+	BORDER-BOTTOM: #1b81d8 2px solid; BORDER-LEFT: #80afe2 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 28px; MARGIN: 0px 2px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; DISPLAY: inline-block; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/anbg.jpg) repeat-x left bottom; HEIGHT: 28px; COLOR: #000; OVERFLOW: hidden; BORDER-TOP: #80afe2 1px solid; BORDER-RIGHT: #80afe2 1px solid; PADDING-TOP: 0px
+}
+.listye {
+	MARGIN: 20px auto; WIDTH: 95%; FONT-SIZE: 14px; BORDER-TOP: #cfdfec 1px solid
+}
+.listye TD {
+	BORDER-BOTTOM: #cfdfec 1px dashed; PADDING-LEFT: 15px
+}
+.listye .listjt {
+	PADDING-RIGHT: 10px
+}
+.footer {
+	TEXT-ALIGN: center; LINE-HEIGHT: 24px; MARGIN-TOP: 10px; COLOR: #444; BORDER-TOP: #1c3d72 2px solid
+}
+.fnav {
+	LINE-HEIGHT: 35px; HEIGHT: 35px; COLOR: #1c3d72
+}
+.fnav A {
+	MARGIN: 0px 5px; COLOR: #1c3d72
+}
+A:hover {
+	COLOR: #ed0101; TEXT-DECORATION: underline
+}
+.fnav A:hover {
+	COLOR: #ed0101; TEXT-DECORATION: underline
+}
+.title A:hover {
+	COLOR: #ed0101; TEXT-DECORATION: underline
+}
+.lia_blue A:hover {
+	COLOR: #ed0101; TEXT-DECORATION: underline
+}
+#newsSlider .container {
+	POSITION: relative; WIDTH: 280px; BACKGROUND: #035ca4; HEIGHT: 280px; OVERFLOW: hidden
+}
+#newsSlider DIV.slides {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+#newsSlider UL.slides {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+#newsSlider UL.slides LI IMG {
+	WIDTH: 280px; HEIGHT: 250px
+}
+#newsSlider UL.slides DL {
+	POSITION: absolute; WIDTH: 180px; HEIGHT: 30px; OVERFLOW: hidden; TOP: 248px; LEFT: 5px
+}
+#newsSlider UL.slides DT A {
+	FONT: bold 12px/30px "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif; COLOR: #fff
+}
+#newsSlider UL.slides DD {
+	LINE-HEIGHT: 22px
+}
+#newsSlider UL.slides DD .more {
+	MARGIN-TOP: -18px; TEXT-INDENT: -100em; WIDTH: 14px; FLOAT: right; HEIGHT: 12px; OVERFLOW: hidden
+}
+#newsSlider DIV.slides DIV {
+	POSITION: absolute; WIDTH: 280px; DISPLAY: none; PADDING-TOP: 0px; TOP: 0px
+}
+UL.slides LI {
+	POSITION: absolute; WIDTH: 280px; DISPLAY: none; PADDING-TOP: 0px; TOP: 0px
+}
+#newsSlider #loopedSlider {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 280px; CLEAR: both
+}
+#newsSlider {
+	POSITION: relative; WIDTH: 280px; MARGIN-LEFT: auto; CLEAR: both; MARGIN-RIGHT: auto
+}
+#newsSlider UL.pagination {
+	POSITION: absolute; WIDTH: 90px; HEIGHT: 30px; RIGHT: 0px; TOP: 250px; _width: 100px
+}
+#newsSlider UL.pagination LI {
+	MARGIN: 6px 0px 0px 5px; WIDTH: 16px; FLOAT: left; HEIGHT: 16px
+}
+#newsSlider UL.pagination LI A {
+	BORDER-BOTTOM: #cedef7 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #cedef7 1px solid; WIDTH: 15px; DISPLAY: block; BACKGROUND: #e8fceb; HEIGHT: 15px; COLOR: #3049e3; OVERFLOW: hidden; BORDER-TOP: #cedef7 1px solid; BORDER-RIGHT: #cedef7 1px solid; TEXT-DECORATION: none
+}
+#newsSlider UL.pagination LI.active A {
+	BACKGROUND: #c6ff5e
+}
+.in_fenlei {
+	MARGIN-TOP: 2px; WIDTH: 268px
+}
+.in_fenlei LI {
+	WIDTH: 88px; BACKGROUND-POSITION: 80px center
+}
+.fabulist LI {
+	BORDER-BOTTOM: #cfdfec 1px solid; LINE-HEIGHT: 29px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/faibu_bg2.jpg) no-repeat 114px center; HEIGHT: 27px; COLOR: #6b7e88; OVERFLOW: hidden
+}
+.fabulist LI IMG {
+	FLOAT: left; MARGIN-RIGHT: 26px
+}
+.link {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.linkpic IMG {
+	MARGIN: 10px 17px 0px 0px; FLOAT: left
+}
+.linktext {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.linktext A {
+	LINE-HEIGHT: 24px; MARGIN: 0px 8px
+}
+.sea_comm {
+	Z-INDEX: 999; POSITION: relative; PADDING-LEFT: 10px; BACKGROUND: #ebf2fc; HEIGHT: 40px
+}
+.sea_type {
+	PADDING-LEFT: 10px
+}
+.sea_type LI {
+	TEXT-ALIGN: left; WIDTH: 120px; BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.sea_date {
+	BORDER-BOTTOM: #d6d6d6 1px solid; BORDER-LEFT: #d6d6d6 1px solid; WIDTH: 90px; HEIGHT: 28px; COLOR: #143a6e; BORDER-TOP: #d6d6d6 1px solid; BORDER-RIGHT: #d6d6d6 1px solid
+}
+H1.newsbig {
+	TEXT-ALIGN: center; LINE-HEIGHT: 40px; MARGIN: 0px auto; WIDTH: 95%; FONT-FAMILY: "??????"; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/line.gif) repeat-x left bottom; HEIGHT: 50px; FONT-SIZE: 24px; OVERFLOW: hidden; FONT-WEIGHT: 500
+}
+.othershen {
+	POSITION: static; LINE-HEIGHT: 30px; PADDING-LEFT: 10px; WIDTH: 218px
+}
+.othershen A {
+	PADDING-LEFT: 10px; WIDTH: 44px; DISPLAY: block; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt5.gif) no-repeat left center; FLOAT: left
+}
+.onlypic {
+	MARGIN-TOP: 10px
+}
+.onlypic LI {
+	TEXT-ALIGN: center; WIDTH: 163px; FLOAT: left; HEIGHT: 68px
+}
+.abouts UL {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 10px
+}
+.abouts DL {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 10px
+}
+.abouts LI {
+	BORDER-BOTTOM: #d8d8d8 1px dotted; LINE-HEIGHT: 40px; PADDING-LEFT: 40px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt4.gif) no-repeat 15px center; HEIGHT: 40px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.abouts DT {
+	BORDER-BOTTOM: #d8d8d8 1px dotted; LINE-HEIGHT: 40px; PADDING-LEFT: 40px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt4.gif) no-repeat 15px center; HEIGHT: 40px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.abouts DD {
+	BORDER-BOTTOM: #d8d8d8 1px dotted; LINE-HEIGHT: 35px; PADDING-LEFT: 60px; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt2.gif) no-repeat 40px center; HEIGHT: 35px
+}
+.linehei2 {
+	LIST-STYLE: none none outside; BORDER-BOTTOM: #dddddd 1px solid; BORDER-LEFT: #dddddd 1px solid; LINE-HEIGHT: 28px; PADDING-LEFT: 10px; DISPLAY: block; FONT-FAMILY: "Arial"; COLOR: #0d4775; CLEAR: both; FONT-SIZE: 12px; BORDER-TOP: #dddddd 1px solid; BORDER-RIGHT: #dddddd 1px solid
+}
+.flc {
+	FLOAT: left
+}
+.grayn223 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 25px; PADDING-RIGHT: 0px; FONT: bold 14px "????"; BACKGROUND: url(http://www.zbwmy.com/zbxx/images2012/jt3.jpg) no-repeat 8px 8px; FLOAT: left; PADDING-TOP: 6px
+}
+.sp252 {
+	MARGIN: 0px 10px 0px 0px; WIDTH: 120px
+}
+.btcen {
+	TEXT-ALIGN: center
+}
+.del {
+	WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+.sp242 {
+	MARGIN: 0px 10px 0px 0px; WIDTH: 50px
+}
+.sp2 {
+	MARGIN: 0px
+}
+.frc {
+	FLOAT: right
+}
