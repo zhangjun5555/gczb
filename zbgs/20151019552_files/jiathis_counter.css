@@ -1,0 +1,87 @@
+#ckepop A:hover {
+	TEXT-DECORATION: none
+}
+#ckepop .jiathis_bubble_style.jiathis_counter {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px -2px; PADDING-LEFT: 4px; WIDTH: 32px !important; PADDING-RIGHT: 0px; DISPLAY: block; FONT-FAMILY: arial, helvetica, sans-serif; BACKGROUND: url(../images/counter.gif) no-repeat 0px -64px; HEIGHT: 16px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+#ckepop .jiathis_bubble_style.jiathis_counter:hover {
+	BACKGROUND-POSITION: -36px -64px; COLOR: #000000
+}
+#ckepop .jiathis_bubble_style.jiathis_counter .atc_s {
+	DISPLAY: none !important
+}
+#ckepop * HTML .jiathis_bubble_style.jiathis_counter {
+	WIDTH: 36px !important; DISPLAY: inline
+}
+#ckepop * HTML .compatmode0.jiathis_bubble_style.jiathis_counter {
+	WIDTH: 32px !important; DISPLAY: block
+}
+#ckepop .jiathis_button_expanded {
+	LINE-HEIGHT: 16px !important; FLOAT: left; COLOR: #565656; FONT-SIZE: 11px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+#jiathis_style_32x32 A:hover {
+	TEXT-DECORATION: none
+}
+#jiathis_style_32x32 .jiathis_bubble_style.jiathis_counter {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 32px; PADDING-LEFT: 6px; WIDTH: 54px !important; PADDING-RIGHT: 5px; FONT-FAMILY: arial, helvetica, sans-serif; BACKGROUND: url(../images/counter.gif) no-repeat 0px 0px; HEIGHT: 32px; PADDING-TOP: 0px
+}
+#jiathis_style_32x32 .jiathis_bubble_style.jiathis_counter:hover {
+	BACKGROUND-POSITION: 0px -32px; COLOR: #000000
+}
+#jiathis_style_32x32 * HTML .jiathis_bubble_style.jiathis_counter {
+	WIDTH: 60px !important
+}
+#jiathis_style_32x32 .jiathis_button_expanded {
+	LINE-HEIGHT: 32px !important; FLOAT: left; COLOR: #565656; FONT-SIZE: 16px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.jiathis_style A:hover {
+	TEXT-DECORATION: none
+}
+.jiathis_style .jiathis_bubble_style.jiathis_counter {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px -2px; PADDING-LEFT: 4px; WIDTH: 32px !important; PADDING-RIGHT: 0px; DISPLAY: block; FONT-FAMILY: arial, helvetica, sans-serif; BACKGROUND: url(../images/counter.gif) no-repeat 0px -64px; HEIGHT: 16px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.jiathis_style .jiathis_bubble_style.jiathis_counter:hover {
+	BACKGROUND-POSITION: -36px -64px; COLOR: #000000
+}
+.jiathis_style .jiathis_bubble_style.jiathis_counter .atc_s {
+	DISPLAY: none !important
+}
+.jiathis_style * HTML .jiathis_bubble_style.jiathis_counter {
+	WIDTH: 36px !important; DISPLAY: inline
+}
+.jiathis_style * HTML .compatmode0.jiathis_bubble_style.jiathis_counter {
+	WIDTH: 32px !important; DISPLAY: block
+}
+.jiathis_style .jiathis_button_expanded {
+	LINE-HEIGHT: 16px !important; FLOAT: left; COLOR: #565656; FONT-SIZE: 11px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.jiathis_style_32x32 A:hover {
+	TEXT-DECORATION: none
+}
+.jiathis_style_32x32 .jiathis_bubble_style.jiathis_counter {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 32px; PADDING-LEFT: 6px; WIDTH: 54px !important; PADDING-RIGHT: 5px; FONT-FAMILY: arial, helvetica, sans-serif; BACKGROUND: url(../images/counter.gif) no-repeat 0px 0px; HEIGHT: 32px; PADDING-TOP: 0px
+}
+.jiathis_style_32x32 .jiathis_bubble_style.jiathis_counter:hover {
+	BACKGROUND-POSITION: 0px -32px; COLOR: #000000
+}
+.jiathis_style_32x32 * HTML .jiathis_bubble_style.jiathis_counter {
+	WIDTH: 60px !important
+}
+.jiathis_style_32x32 .jiathis_button_expanded {
+	LINE-HEIGHT: 32px !important; FLOAT: left; COLOR: #565656; FONT-SIZE: 16px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.jiathis_style_24x24 A:hover {
+	TEXT-DECORATION: none
+}
+.jiathis_style_24x24 .jiathis_bubble_style.jiathis_counter {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; PADDING-LEFT: 6px; WIDTH: 54px !important; PADDING-RIGHT: 5px; FONT-FAMILY: arial, helvetica, sans-serif; BACKGROUND: url(../images/counter.gif) no-repeat 0px -80px; HEIGHT: 24px; PADDING-TOP: 0px
+}
+.jiathis_style_24x24 .jiathis_bubble_style.jiathis_counter:hover {
+	BACKGROUND-POSITION: 0px -104px; COLOR: #000000
+}
+.jiathis_style_24x24 * HTML .jiathis_bubble_style.jiathis_counter {
+	WIDTH: 60px !important
+}
+.jiathis_style_24x24 .jiathis_button_expanded {
+	LINE-HEIGHT: 24px !important; FLOAT: left; COLOR: #565656; FONT-SIZE: 14px; CURSOR: pointer; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}

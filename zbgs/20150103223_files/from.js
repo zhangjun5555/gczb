@@ -1,0 +1,2 @@
+/*publish date:2016-07-26 18:26:21*/
+(function(b){var h=document,a=b.location;function g(d,i){h.cookie=d+"="+escape(i)+"; domain=.58che.com; path=/"}function c(i){if(!h.cookie){return""}var d;return(d=h.cookie.match(RegExp("(^| )"+i+"=([^;]*)(;|$)")))?unescape(d[2]):""}function f(j,i){var d=RegExp("[?&]"+i+"=([^&]*)").exec(j);return d?d[1]:""}function e(){var d=f(a.search,"from");if(d!=""){g("from_code",d)}else{d=c("from_code")}return d}b.getFrom=function(){return e()}})(window);
